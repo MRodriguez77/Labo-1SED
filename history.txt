@@ -1,0 +1,48 @@
+    1  sudo nano
+    2  sudo nano /etc/sudoers
+    3  sudo apt install git
+    4  sudo yum install gnupg2
+    5  sudo yum install gnupg2
+    6  sudo apt install gnupg
+    7   –full-generate-key
+    8  -full-generate-key
+    9  --full-generate-key
+   10  gpg --full-generate-key
+   11  gpg --full-generate-key
+   12  gpg --output my_revocation_certificate.asc --gen-revoke <FCC594F8ABA365ECCED013D432C3648FA639F4D1>
+   13  gpg --output my_revocation_certificate.asc --gen-revoke <FCC594F8ABA365ECCED013D432C3648FA639F4D1
+   14  gpg --output my_revocation_certificate.asc --gen-revoke FCC594F8ABA365ECCED013D432C3648FA639F4D1
+   15  gpg --list-keys
+   16  gpg --list-secret-keys
+   17  gpg --armor --export naldana@uca.edu.sv
+   18  gpg --list-secret-keys
+   19  gpg --armor --export naldana@uca.edu.sv
+   20  gpg --armor --export 00163918@uca.edu.sv
+   21  --output
+   22  gpg --output
+   23  --output
+   24  gpg --output --armor --export 00163918@uca.edu.sv
+   25  gpg --export-secret-keys --armor FCC594F8ABA365ECCED013D432C3648FA639F4D1> ./my-priv-gpg-key.asc
+   26  miguel.gpg
+   27  gpg --import ~/home/uca/Desktop/miguel.gpg 
+   28  gpg --import ~/home/uca/Desktop/miguel.gpg
+   29  gpg --import ~/Desktop/miguel.gpg
+   30  gpg --import Desktop/miguel.gpg
+   31  gpg --import Desktop/miguel.gpgls
+   32  ls
+   33  ls
+   34  cd
+   35  cd Desktop
+   36  nano miguel.gpg
+   37  gpg --import Desktop/miguel.gpg
+   38  ls
+   39  gpg --import ~/miguel.gpg 
+   40  gpg --list-keys
+   41  gpg --edit-key 00087518@uca.edu.sv
+   42  y
+   43  gpg --list-key
+   44  gpg --list-key
+   45  gpg --list-key
+   46  history
+   47  gpg --list-key
+   48  history> history.txt
